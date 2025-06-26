@@ -4,6 +4,9 @@
 A small mod to be able to change the character size of every character (players, terrorists, etc.).
 Only works for Operation White Noise (v11580709)
 
+Preview:
+https://imgur.com/a/hnCQSH3
+
 ## CLI commands
 - `set-size small | normal | giant`: changes player size
 - `exit`: disables the mod
