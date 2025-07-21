@@ -1,7 +1,9 @@
 # ScaleMod
 
+Mod page: [https://r6mods.com/mods/character-size-mod](https://r6mods.com/mods/character-size-mod)
+
 ## Description
-A small mod to be able to change the character size of every character (players, terrorists, etc.).
+A small Rainbow Six Siege mod to be able to change the character size of every character (players, terrorists, etc.).
 Only works for Operation White Noise (v11580709)
 
 Preview:
